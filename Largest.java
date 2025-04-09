@@ -22,6 +22,7 @@ public class Largest {
         }
 
         System.out.println("The largest number is: " + largest);
+        System.out.println("This is Master node");
         scanner.close();
     }
 }
